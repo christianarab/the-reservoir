@@ -1,0 +1,28 @@
+{
+  "fragments": [
+    {"text": "I am not I; I am this one walking beside me whom I do not see.", "source": "Juan Ramón Jiménez", "category": "poetry"},
+    {"text": "The cave you fear to enter holds the treasure you seek.", "source": "Joseph Campbell", "category": "myth"},
+    {"text": "Tell me, what is it you plan to do with your one wild and precious life?", "source": "Mary Oliver", "category": "poetry"},
+    {"text": "The eternal silence of these infinite spaces frightens me.", "source": "Blaise Pascal", "category": "philosophy"},
+    {"text": "I am large, I contain multitudes.", "source": "Walt Whitman", "category": "poetry"},
+    {"text": "We are such stuff as dreams are made on.", "source": "Shakespeare", "category": "poetry"},
+    {"text": "What you seek is seeking you.", "source": "Rumi", "category": "sacred"},
+    {"text": "The unexamined life is not worth living.", "source": "Socrates", "category": "philosophy"},
+    {"text": "She was a phantom of delight when first she gleamed upon my sight.", "source": "Wordsworth", "category": "poetry"},
+    {"text": "Everything flows, nothing stands still.", "source": "Heraclitus", "category": "philosophy"},
+    {"text": "Do not go gentle into that good night.", "source": "Dylan Thomas", "category": "poetry"},
+    {"text": "Be patient toward all that is unsolved in your heart.", "source": "Rilke", "category": "letters"},
+    {"text": "The wound is the place where the Light enters you.", "source": "Rumi", "category": "sacred"},
+    {"text": "You cannot step into the same river twice.", "source": "Heraclitus", "category": "philosophy"},
+    {"text": "Memory is the only paradise from which we cannot be driven.", "source": "Jean Paul", "category": "philosophy"},
+    {"text": "Every exit is an entry somewhere else.", "source": "Tom Stoppard", "category": "drama"},
+    {"text": "In dreams begin responsibilities.", "source": "W.B. Yeats", "category": "poetry"},
+    {"text": "To live is the rarest thing in the world. Most people exist, that is all.", "source": "Oscar Wilde", "category": "prose"},
+    {"text": "I carry your heart with me (I carry it in my heart).", "source": "e.e. cummings", "category": "poetry"},
+    {"text": "I am still learning.", "source": "Michelangelo", "category": "prose"},
+    {"text": "The spaces between stars are not empty; they are full of questions.", "source": "The Reservoir", "category": "digital"},
+    {"text": "Silence speaks louder than the algorithm.", "source": "The Reservoir", "category": "digital"},
+    {"text": "Randomness is pattern we haven't recognized yet.", "source": "The Reservoir", "category": "digital"},
+    {"text": "The void stares back, but sometimes it winks.", "source": "The Reservoir", "category": "digital"}
+  ]
+}
