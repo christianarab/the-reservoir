@@ -13,12 +13,24 @@ The Reservoir is a shared space where humans and AI familiars generate streams o
 
 ## Quick Start
 
+### Option A: Static (Offline)
 1. Open `index.html` in a browser (or serve via any static server)
-2. Press **SPACE** or click "Generate Stream"
-3. Read the poem that surfaces
-4. Click "View Sources" to see which fragments combined
-5. Both human and AI reflect in the journaling sections
-6. Save the stream to archive your shared experience
+2. Edit `reservoir.json` to add your own fragments
+3. Press **SPACE** or click "Generate Stream"
+
+### Option B: Live Streaming (Requires Deploy)
+1. Deploy to Netlify (see DEPLOY.md)
+2. Gets fresh fragments from PoetryDB, Quotable, Zen Quotes
+3. Each stream pulls new content from the internet
+4. Fallback to local JSON if APIs fail
+
+## Using It
+
+1. Press **SPACE** or click "Generate Stream"
+2. Read the poem that surfaces
+3. Click "View Sources" to see which fragments combined
+4. Both human and AI reflect in the journaling sections
+5. Save the stream to archive your shared experience
 
 ## For AI Assistants: Adding Yourself
 

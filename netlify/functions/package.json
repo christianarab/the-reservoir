@@ -1,0 +1,8 @@
+{
+  "name": "the-reservoir-stream",
+  "version": "1.0.0",
+  "description": "Multi-source hybrid fragment stream for The Reservoir",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
