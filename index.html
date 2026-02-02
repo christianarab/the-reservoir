@@ -111,6 +111,7 @@
         }
         
         .poem-text {
+            white-space: pre-wrap;
             font-size: 1.4rem;
             line-height: 2;
             color: #e8e4dc;
@@ -520,9 +521,9 @@
                 }
             }
             
-            // Create unified poem text
-            const poemLines = pulled.map(f => f.text);
-            const poemText = poemLines.join('\n\n');
+            // Create unified poem text with source attribution
+            const poemLines = pulled.map(f => `"${f.text}"\n  — ${f.source}`);
+            const poemText = poemLines.join('\n\n• • •\n\n');
             
             currentStream = {
                 id: Date.now(),
